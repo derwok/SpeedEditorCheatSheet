@@ -4,7 +4,7 @@
 - Just download the PDF and print it to an A4 page
 - The DaVinci Resolve Speed Editor is an affordable hardware keyboard to control the editing process of video and audio material (mainly on the so called "Cut Page") inside the DaVinci Resolve video editing software
 
-![Image of Speed Editor](Speed_Editor_DSCF7401_800px.jpg)
+![Image of Speed Editor](./AffinityDesigner/Speed_Editor_DSCF7401_800px.jpg)
 
 ## Legal
 * This is not an official Blackmagic Design support document. This is just the work of private user that might or might not be helpful for others
