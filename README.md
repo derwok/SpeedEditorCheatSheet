@@ -9,6 +9,7 @@
 
 [<img src="./AffinityDesigner/DaVinci_Resolve_Speed_Editor_Cheat_Sheet_thumbnail.jpg">](https://raw.githubusercontent.com/derwok/SpeedEditorCheatSheet/master/DaVinci Resolve%20Speed%20Editor%20Cheat%20Sheet.pdf)
 
+[<img src="./AffinityDesigner/DaVinci_Resolve_Speed_Editor_Cheat_Sheet_thumbnail.jpg">](https://raw.githubusercontent.com/derwok/SpeedEditorCheatSheet/master/DaVinci Resolve%20Speed%20Editor%20Cheat%20Sheet.pdf)
 
 ## Legal
 * This is not an official Blackmagic Design support document. This is just the work of private user that might or might not be helpful for others
