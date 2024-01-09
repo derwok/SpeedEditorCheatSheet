@@ -6,9 +6,6 @@
 
 ![Image of Speed Editor](./AffinityDesigner/Speed_Editor_DSCF7401_800px.jpg)
 
-
-[<img src="./AffinityDesigner/DaVinci_Resolve_Speed_Editor_Cheat_Sheet_thumbnail.jpg">](https://raw.githubusercontent.com/derwok/SpeedEditorCheatSheet/master/DaVinci%20Resolve%20Speed%20Editor%20Cheat%20Sheet.pdf)
-
 [<img src="./AffinityDesigner/DaVinci_Resolve_Speed_Editor_Cheat_Sheet_thumbnail.jpg">](https://raw.githubusercontent.com/derwok/SpeedEditorCheatSheet/master/DaVinci%20Resolve%20Speed%20Editor%20Cheat%20Sheet.pdf)
 
 ## Legal
